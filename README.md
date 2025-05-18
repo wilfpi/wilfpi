@@ -30,10 +30,10 @@
     <td>
       <div align="center">
         <strong>🧠 About Me</strong><br><br>
-        🛠️ Working on MaskiSat<br>
-        💻 Passionate about low-level programming<br>
-        🔒 Cybersecurity in progress<br>
-        📬 Open to collaborations
+        🛠️ Building MaskiSat<br>
+        💻 Exploring low-level C++<br>
+        🔒 Studying system security<br>
+        📬 Available for internships
       </div>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
