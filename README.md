@@ -15,18 +15,31 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45.5%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=wilfpi&theme=dark&hide_border=true" width="50.20%" />
-</div>
+## 📊 GitHub Overview:
 
-<!-- Новый блок для выравнивания сетки -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Developer;Cybersecurity+Learner;Open+to+Internships&center=true&width=450&height=45&color=58A6FF&vCenter=true&size=20" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="33%"/>
-  <img src="Neon Genesis Evangelion Sticker.gif" width="59.5%">
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=wilfpi&theme=dark&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <strong>🧠 About Me</strong><br><br>
+        🛠️ Working on MaskiSat<br>
+        💻 Passionate about low-level programming<br>
+        🔒 Cybersecurity in progress<br>
+        📬 Open to collaborations
+      </div>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+    </td>
+    <td rowspan="2" align="center" valign="top">
+      <img src="Neon Genesis Evangelion Sticker.gif" width="95%">
+    </td>
+  </tr>
+</table>
