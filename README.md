@@ -3,7 +3,7 @@
 👨🏼‍🎓 Learning low-level programming and system security  
 👨🏼‍💻 Open to internship opportunities  
 
-
+---
 
 ## 🧰 Tech Stack:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -19,6 +19,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45.5%"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=wilfpi&theme=dark&hide_border=true" width="50.20%" />
+</div>
+
+<!-- Новый блок для выравнивания сетки -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Developer;Cybersecurity+Learner;Open+to+Internships&center=true&width=450&height=45&color=58A6FF&vCenter=true&size=20" />
 </div>
 
 <div align="center">
