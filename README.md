@@ -19,15 +19,18 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <img src="https://github-readme-stats.vercel.app/api?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
     </td>
-    <td width="50%">
+    <td width="33%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=wilfpi&theme=dark&hide_border=true" width="100%"/>
+    </td>
+    <td width="34%" rowspan="3" align="center" valign="top">
+      <img src="Neon Genesis Evangelion Sticker.gif" width="95%">
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <div align="center">
         <strong>🧠 About Me</strong><br><br>
         🛠️ Building MaskiSat<br>
@@ -35,11 +38,11 @@
         🔒 Studying system security<br>
         📬 Available for internships
       </div>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
     </td>
-    <td rowspan="2" align="center" valign="top">
-      <img src="Neon Genesis Evangelion Sticker.gif" width="95%">
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
     </td>
   </tr>
 </table>
