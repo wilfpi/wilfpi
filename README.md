@@ -3,7 +3,7 @@
 👨🏼‍🎓 Learning low-level programming and system security  
 👨🏼‍💻 Open to internship opportunities  
 
----
+
 
 ## 🧰 Tech Stack:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -22,16 +22,6 @@
 </div>
 
 <div align="center">
-
-  <!-- ✅ Custom Block Here -->
-  <div align="left" style="margin-top: 20px; width: 33%; display: inline-block; vertical-align: top;">
-    <strong>🧠 About Me</strong><br><br>
-    🛠️ Building MaskiSat<br>
-    💻 Exploring low-level C++<br>
-    🔒 Studying system security<br>
-    📬 Available for internships
-  </div>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfpi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="33%"/>
   <img src="Neon Genesis Evangelion Sticker.gif" width="59.5%">
 </div>
